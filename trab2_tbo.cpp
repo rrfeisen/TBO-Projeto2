@@ -382,8 +382,6 @@ public:
         cout << "3. Mineração de Dados (Tarefa 7)" << endl;
         cout << "4. Nuvem de Palavras (Tarefa 9)" << endl;
         cout << "5. Carregar texto de arquivo" << endl;
-        cout << "6. Inserir texto manualmente" << endl;
-        cout << "7. Visualizar texto atual" << endl;
         cout << "0. Sair" << endl;
         cout << string(60, '=') << endl;
         cout << "Escolha uma opção: ";
